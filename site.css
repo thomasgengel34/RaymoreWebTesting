@@ -1,0 +1,57 @@
+﻿body {
+    margin:1%;
+    padding:1%;
+  
+
+}
+.navbar  {
+    background-color:yellow;
+    color: violet;
+}
+
+h1 {
+    color:  darkviolet;
+}
+
+h2 {
+    color:blue;
+}
+
+ header {
+    height:50px;
+}
+
+ footer{
+     position:absolute;
+    
+     left:0;
+     right:0;
+    background:linear-gradient(yellow,white);
+    color: darkviolet;
+    margin:0;
+    padding:1%;
+    text-align:center;
+}
+
+ ul.nav {
+    margin-top:2%;
+    margin-left:2%;
+ }
+
+#main { 
+ }
+
+figure {
+    width:100%;
+    margin:1%;
+}
+
+    figure#orbSpider {
+          background-image: url('../Img/Default/350px-SpiderWeb.jpg');
+    }
+
+figcaption {
+    color:blue;
+    font-style:italic;
+    background-color:white;
+}
